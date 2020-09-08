@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2", "Assignment 2.csproj", "{B147612B-B2E7-4868-B959-5D9169BD5B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowPost", "..\StackOverflowPost\StackOverflowPost.csproj", "{9277097A-90AF-4E64-AFCA-20D1F6C5ECB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B147612B-B2E7-4868-B959-5D9169BD5B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B147612B-B2E7-4868-B959-5D9169BD5B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B147612B-B2E7-4868-B959-5D9169BD5B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B147612B-B2E7-4868-B959-5D9169BD5B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9277097A-90AF-4E64-AFCA-20D1F6C5ECB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9277097A-90AF-4E64-AFCA-20D1F6C5ECB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9277097A-90AF-4E64-AFCA-20D1F6C5ECB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9277097A-90AF-4E64-AFCA-20D1F6C5ECB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A49A7CB-617D-4975-8A0E-4935265E8BA1}
+	EndGlobalSection
+EndGlobal
